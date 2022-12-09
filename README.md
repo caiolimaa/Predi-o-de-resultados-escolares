@@ -1,3 +1,4 @@
+# Especialização em Ciência de Dados
 # Projeto Interdisciplinar - IFSP
 
 
@@ -170,7 +171,7 @@ Os recursos alocados no setup e na criação do endpoint têm que ser removidos 
 # Resultados e conclusões
 
 
-Como melhorias deste trabalho, pretende-se desenvolver novos modelos de aprendizado de máquina, implementando processamento de linguagem natural e redes neurais convolucionais na melhoria da predição.
+Dentre os modelos testados, o SVM apresentou melhor resultado, com predição com 95% de acurácia. Como melhorias deste trabalho, pretende-se desenvolver novos modelos de aprendizado de máquina, implementando processamento de linguagem natural e redes neurais convolucionais na melhoria da predição.
 
 
 # Referências
