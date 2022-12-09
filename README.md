@@ -63,10 +63,21 @@ Como citado anteriormente a coleta e modelagem de dados foi pensada para tarefas
 
 # Arquitetura
 
+O Diagrama da Arquitetura consiste na inserção da base de dados na nuvem, efetuando sua limpeza e tratamento dos dados, divisão da base de dados entre treino e teste, selecionando o modelo de regressão de aprendizado de máquina com a análise dos resultados da predição
+
+ ![image](https://user-images.githubusercontent.com/41349325/206769743-3f15d174-5f06-4823-8e97-abaa3b37b6b4.png)
+
+
 
 
 # Infraestrutura
 
+A infraestrutura foi criada na região Brazil South e envolveu os seguintes recursos:
+•	Máquina Virtual Dedicada
+•	CPU
+•	2 Núcleos
+•	14GB de RAM
+•	28GB de Armazenamento
 
 
 # Setup
