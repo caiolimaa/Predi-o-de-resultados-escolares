@@ -1,4 +1,4 @@
-# Projeto Interdisciplinar IFSP
+# Projeto Interdisciplinar - IFSP
 
 
 ## Professores:
@@ -100,6 +100,9 @@ A infraestrutura foi criada na região Brazil South e envolveu os seguintes recu
 •	14GB de RAM
 
 •	28GB de Armazenamento
+
+
+A seleção da infraestrutura pode ser vista na imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/41349325/206780267-25041d36-0f49-4652-8f65-3c198fd44a05.png)
 
