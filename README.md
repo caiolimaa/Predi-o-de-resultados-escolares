@@ -102,6 +102,11 @@ Configurar o AutoML com Python - Azure Machine Learning. https://learn.microsoft
 Entrada/saída do serviço Web: referência de componente - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/component-reference/web-service-input-output?source=recommendations
 
 
+Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow”, A. Géron (2019).
+
+
+Machine Learning Project Checklist. @xavecoding. youtube.com/c/xavecoding
+
 
 Treinar e implantar um exemplo no Jupyter Notebook - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/v1/tutorial-train-deploy-notebook?source=recommendations
 
