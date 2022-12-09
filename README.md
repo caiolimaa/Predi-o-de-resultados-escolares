@@ -1,22 +1,10 @@
-Introdução
-
-Dados
-
-Arquitetura
-
-Infraestrutura
-
-Setup
-
-Pipeline/Metodologia
-
-Referências
-
 
 # Introdução
+
 Educação é um direito fundamental garantido na Declaração Universal dos Direitos Humanos, garantir esse direito é em si um grande desafio, porém o Brasil se comprometeu em ir além, em um acordo com a UNESCO o país visa garantir uma educação inclusiva, equitativa e de qualidade. Apesar desse compromisso, os números da educação pública são preocupantes, de acordo com os dados mais recentes do [QEdu (2019)](https://qedu.org.br/brasil/aprendizado), somente 36\% dos alunos de português na nona série estão em um nível adequado de proficiência, essa situação se mostra ainda pior em matemática, onde somente 18\% dos alunos estão em um nível adequado. Devido aos preocupantes números e o compromisso firmado é necessário dedicar esforços para melhorar a educação, e para melhorar esse cenário podemos utilizar a tecnologia como ferramenta para auxiliar os profissionais da educação.
 
-# Sobre os dados
+# Dados
+
 Os dados selecionados para este trabalho são provenientes de um estudo realizado em Portugal. São dois conjuntos de dados referentes às disciplinas de matemática e português de duas escolas de ensino médio da região de Alentejo em Portugal, eles foram coletados entre 2005 e 2006 e são compostos por informações provindas dos relatórios escolares (i.e notas e quantidade de faltas) e dados de questionários com opções pré definidas, ao fim os conjuntos de dados contam com informações demográficas, sociais, referentes ao ambiente escolar e as notas dos estudantes. São 33 atributos modelados sob uma lógica binária e de 5 níveis de importância justamente para facilitar tarefas de Machine Learning como predição e classificação. Para este estudo foi selecionado o conjunto de dados referente à disciplina de Português que conta com dados de 649 estudantes. É importante salientar que os dados foram coletados há mais de 10 anos, uma diferença temporal significativa, além disso a pandemia de COVID-19 impactou, e continuará a impactar, a educação no mundo todo, para mais existem diferenças culturais, sociais e econômicas relevantes entre o Brasil e Portugal, dificultando a transferência de um modelo baseado nesses dados para a realidade brasileira pós COVID-19.
 Os dados são tabulares e não seguem nenhum fenômeno temporal, cada linha da tabela corresponde a um estudante e todos os valores são numéricos, textuais ou binários, os valores binários também são textuais, mas são sempre referentes a duas categorias. Podemos agrupar os atributos da seguinte forma:
 
@@ -62,4 +50,43 @@ Como citado anteriormente a coleta e modelagem de dados foi pensada para tarefas
 | 31 | G1         | Nota do primeiro período          | De 0 até 20                                                                                                       |
 | 32 | G2         | Nota do segundo período           | De 0 até 20                                                                                                       |
 | 33 | G3         | Nota final                        | De 0 até 20                                                                                                       |
+
+
+#Arquitetura
+
+
+
+#Infraestrutura
+
+
+
+#Setup
+
+
+
+#Pipeline/Metodologia
+
+
+
+
+#Referências
+
+
+Acesso seguro aos dados na nuvem v1 - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/v1/concept-data?source=recommendations
+
+
+Configurar o AutoML com Python - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/v1/how-to-configure-auto-train-v1?source=recommendations
+
+
+
+Entrada/saída do serviço Web: referência de componente - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/component-reference/web-service-input-output?source=recommendations
+
+
+
+Treinar e implantar um exemplo no Jupyter Notebook - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/v1/tutorial-train-deploy-notebook?source=recommendations
+
+
+
+Use o Azure Machine Learning para treinar e implantar um modelo de classificação de imagem com o Scikit-learn em um Jupyter Notebook do Python baseado em nuvem.https://learn.microsoft.com/pt-br/azure/machine-learning/v1/tutorial-train-deploy-notebook?source=recommendations
+
 
