@@ -116,6 +116,33 @@ A seleção da infraestrutura pode ser vista na imagem abaixo:
 
 # Pipeline/Metodologia
 
+O Pipeline/metodologia no desenvolvimento do projeto, teve como base os seguintes procedimentos:
+
+Enquadre o problema
+
+Obter dados
+
+Limpeza de dados
+
+Explorar os dados
+
+Preparar os Dados (Pré-processamento)
+
+Melhor modelo de treinamento (trabalho de treinamento, criação de modelo)
+
+Implantar no endpoint
+
+Dados de teste
+
+Modelo
+
+Predição
+
+Avaliação dos resultados
+
+
+O pipeline do projeto pode ser conferido nas imagens abaixo:
+
 
 
 ![image](https://user-images.githubusercontent.com/41349325/206780791-ab24d4fb-a0d0-4a94-b7b5-300fc5590831.png)
