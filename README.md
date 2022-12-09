@@ -91,15 +91,15 @@ O Diagrama da Arquitetura consiste na inserção da base de dados na nuvem, efet
 
 A infraestrutura foi criada na região Brazil South e envolveu os seguintes recursos:
 
-•	Máquina Virtual Dedicada
+    •	Máquina Virtual Dedicada
 
-•	CPU
+    •	CPU
 
-•	2 Núcleos
+    •	2 Núcleos
 
-•	14GB de RAM
+    •	14GB de RAM
 
-•	28GB de Armazenamento
+    •	28GB de Armazenamento
 
 
 A seleção da infraestrutura pode ser vista na imagem abaixo:
@@ -118,27 +118,27 @@ A seleção da infraestrutura pode ser vista na imagem abaixo:
 
 O Pipeline/metodologia no desenvolvimento do projeto, teve como base os seguintes procedimentos:
 
-           - Enquadramento do problema
+           •	Enquadramento do problema
 
-           - Obter dados
+           •	Obter dados
 
-           - Limpeza de dados
+           •	Limpeza de dados
 
-           - Explorar os dados
+           •	Explorar os dados
 
-           - Preparar os Dados (Pré-processamento)
+           •	Preparar os Dados (Pré-processamento)
 
-           - Melhor modelo de treinamento (trabalho de treinamento, criação de modelo)
+           •	Melhor modelo de treinamento (trabalho de treinamento, criação de modelo)
 
-           - Implantar no endpoint
+           •	Implantar no endpoint
 
-           - Dados de teste
+           •	Dados de teste
 
-           - Modelo
+           •	Modelo
 
-           - Predição
+           •	Predição
 
-           - Avaliação dos resultados
+           •	Avaliação dos resultados
 
 
 O pipeline do projeto pode ser conferido nas imagens abaixo:
