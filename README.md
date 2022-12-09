@@ -143,6 +143,10 @@ O Pipeline/metodologia no desenvolvimento do projeto, teve como base os seguinte
            •	Predição
 
            •	Avaliação dos resultados
+           
+           
+ ![image](https://user-images.githubusercontent.com/41349325/206810550-b3b700f1-50b2-41ca-b89a-def75fa01b92.png)
+
 
 
 Os pipelines do Azure Machine Learning organizam várias etapas do aprendizado de máquina e do processamento de dados em um só recurso. Os pipelines permitem organizar, gerenciar e reutilizar fluxos de trabalho complexos de aprendizado de máquina entre projetos e usuários. O pipeline do projeto pode ser conferido nas imagens abaixo:
