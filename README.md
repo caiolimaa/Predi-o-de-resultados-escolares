@@ -1,7 +1,13 @@
 
 # Introdução
 
-Educação é um direito fundamental garantido na Declaração Universal dos Direitos Humanos, garantir esse direito é em si um grande desafio, porém o Brasil se comprometeu em ir além, em um acordo com a UNESCO o país visa garantir uma educação inclusiva, equitativa e de qualidade. Apesar desse compromisso, os números da educação pública são preocupantes, de acordo com os dados mais recentes do [QEdu (2019)](https://qedu.org.br/brasil/aprendizado), somente 36\% dos alunos de português na nona série estão em um nível adequado de proficiência, essa situação se mostra ainda pior em matemática, onde somente 18\% dos alunos estão em um nível adequado. Devido aos preocupantes números e o compromisso firmado é necessário dedicar esforços para melhorar a educação, e para melhorar esse cenário podemos utilizar a tecnologia como ferramenta para auxiliar os profissionais da educação.
+Este trabalho é um projeto interdisciplinar do curso de Especialização em Ciência de Dados do Instituto Federal de São Paulo, englobando os conceitos estudados na disciplina de Tecnologias de Big Data e na disciplina de Aprendizagem de Máquina e Reconhecimento de Padrões. 
+
+O objetivo do trabalho é praticar, utilizando uma base de dados, a aplicação de conceitos de aprendizagem de máquina na resolução de um problema, com processamento de algoritmos de Machine Learning em ambiente distribuído no Azure ou AWS.
+
+Educação foi o tema escolhido para o projeto, dada a sua importância e relevância, principalmente nos dias de hoje, sendo um direito fundamental garantido na Declaração Universal dos Direitos Humanos, contudo, garantir esse direito é em si um grande desafio e o Brasil se comprometeu em ir além, em um acordo com a UNESCO o país visa garantir uma educação inclusiva, equitativa e de qualidade. 
+
+Apesar desse compromisso, os números da educação pública são preocupantes, de acordo com os dados mais recentes do [QEdu (2019)](https://qedu.org.br/brasil/aprendizado), somente 36\% dos alunos de português na nona série estão em um nível adequado de proficiência, essa situação se mostra ainda pior em matemática, onde somente 18\% dos alunos estão em um nível adequado. Devido aos preocupantes números e o compromisso firmado é necessário dedicar esforços para melhorar a educação, e para melhorar esse cenário podemos utilizar a tecnologia como ferramenta para auxiliar os profissionais da educação.
 
 # Dados
 
@@ -10,11 +16,11 @@ Os dados são tabulares e não seguem nenhum fenômeno temporal, cada linha da t
 
 É importante reforçar que os dados disponíveis referentes a estudantes do ensino fundamental são escassos, e por isso os dados obtidos para esse estudo são referentes a Portugal, esse fator pode gerar um modelo não tão apropriado para a realidade brasileira. Além do fator regional o fator temporal pode ter impacto negativo na nossa pesquisa, os dados obtidos são referentes a 2008, de acordo com [Gupta e Jawanda (2020)](https://www.researchgate.net/profile/Sonia-Gupta-10/publication/342931049_The_impacts_of_COVID-19_on_children/links/5f682cb2a6fdcc008631d487/The-impacts-of-COVID-19-on-children.pdf) a pandemia de COVID-19 vai produzir impactos a longo prazo, apesar de algumas dessas mudanças serem positivas elas acreditam que os impactos negativos podem ser devastadores e que podem afetar milhões de crianças ao redor do mundo.
 
-# Transformações nos dados
+## Transformações nos dados
 
 Como citado anteriormente a coleta e modelagem de dados foi pensada para tarefas de Machine Learning, então houve poucas alterações nos dados, as principais mudanças foram nos valores binários e de texto, que são qualitativos nominais. Os dados binários foram convertidos para valores binários "reais", 0 ou 1, e para os dados qualitativos nominais foram criadas variáveis auxiliares, i.e dummies variables, com valores de 0 ou 1 novamente, dessa maneira todos os dados presentes na base se tornaram numéricos. Além disso, se optou por não utilizar as colunas G1 e G2 para classificar se o aluno será aprovado ou não, pelo fato de existir uma correlação muito forte entre estas colunas e a aprovação do aluno. Por fim, se considerou que caso G3 seja maior ou igual 10 o aluno está aprovado.
 
-# Dicionário de dados
+## Dicionário de dados
 |    | ATRIBUTO   | DESCRIÇÃO                         | VALORES                                                                                                           |
 |----|------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | 1  | school     | Qual escola o aluno pertence      | Gabriel pereira ou  Mousinho da Silveira                                                                          |
@@ -52,24 +58,24 @@ Como citado anteriormente a coleta e modelagem de dados foi pensada para tarefas
 | 33 | G3         | Nota final                        | De 0 até 20                                                                                                       |
 
 
-#Arquitetura
+# Arquitetura
 
 
 
-#Infraestrutura
+# Infraestrutura
 
 
 
-#Setup
+# Setup
 
 
 
-#Pipeline/Metodologia
+# Pipeline/Metodologia
 
 
 
 
-#Referências
+# Referências
 
 
 Acesso seguro aos dados na nuvem v1 - Azure Machine Learning. https://learn.microsoft.com/pt-br/azure/machine-learning/v1/concept-data?source=recommendations
