@@ -1,5 +1,22 @@
+# Projeto Interdisciplinar IFSP
+
+
+## Professores:
+
+Profa. Dra Bianca Pedrosa - bpedrosa@ifsp.edu.br
+
+Prof. Dr Samuel Martins (Samuka) - @hisamuka
+
+
+## Alunos:
+
+Caio de Lima
+
+Carlos Caetano de Almeida
+
 
 # Introdução
+
 
 Este trabalho é um projeto interdisciplinar do curso de Especialização em Ciência de Dados do Instituto Federal de São Paulo, englobando os conceitos estudados na disciplina de Tecnologias de Big Data e na disciplina de Aprendizagem de Máquina e Reconhecimento de Padrões. 
 
@@ -95,6 +112,8 @@ A infraestrutura foi criada na região Brazil South e envolveu os seguintes recu
 
 
 # Pipeline/Metodologia
+
+
 
 ![image](https://user-images.githubusercontent.com/41349325/206780791-ab24d4fb-a0d0-4a94-b7b5-300fc5590831.png)
 
