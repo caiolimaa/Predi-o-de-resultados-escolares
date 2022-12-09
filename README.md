@@ -111,6 +111,9 @@ A seleção da infraestrutura pode ser vista na imagem abaixo:
 
 # Setup
 
+Para implementar o pipeline, foram utilizados os recursos do Azure, considerando o menor custo de utilização desses recursos, sendo instanciada a máquina virtual de menor valor, que equivale a 24 centavos de dólar por hora de utilização, dois núcleos dentre seis núcleos disponíveis, a configuração do Setup pode ser visto na imagem abaixo:
+
+
 ![image](https://user-images.githubusercontent.com/41349325/206780646-7c9aeb41-c795-4110-9714-be81504f4a1a.png)
 
 
