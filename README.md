@@ -171,7 +171,18 @@ Os recursos alocados no setup e na criação do endpoint têm que ser removidos 
 # Resultados e conclusões
 
 
-Dentre os modelos testados, o SVM apresentou melhor resultado, com predição com 95% de acurácia. Como melhorias deste trabalho, pretende-se desenvolver novos modelos de aprendizado de máquina, implementando processamento de linguagem natural e redes neurais convolucionais na melhoria da predição.
+Dentre os modelos testados, o SVM apresentou melhor resultado, com predição com 95% de acurácia. As máquinas de vetores suporte (SVM), também conhecidas como
+modelos de máxima margem, tem baixa complexidade, sua fronteira de decisão se assemelha a uma rodovia(hiperplano). Como o nome sugere, este modelo elege vetores suportes que nos ajudam a definir a qual classe cada elemento pertence.
+
+
+Como melhorias deste trabalho, pretende-se desenvolver novos modelos de aprendizado de máquina, implementando processamento de linguagem natural e redes neurais convolucionais na melhoria da predição.
+
+![image](https://user-images.githubusercontent.com/41349325/206805064-7ad358ca-96b4-4390-be25-7fddc4ea9ef2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/41349325/206805119-0225507e-35ff-4446-ada6-f67e74964fb1.png)
+
 
 
 # Referências
