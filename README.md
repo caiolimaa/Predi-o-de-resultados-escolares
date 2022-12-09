@@ -1,3 +1,18 @@
+Introdução
+
+Dados
+
+Arquitetura
+
+Infraestrutura
+
+Setup
+
+Pipeline/Metodologia
+
+Referências
+
+
 # Introdução
 Educação é um direito fundamental garantido na Declaração Universal dos Direitos Humanos, garantir esse direito é em si um grande desafio, porém o Brasil se comprometeu em ir além, em um acordo com a UNESCO o país visa garantir uma educação inclusiva, equitativa e de qualidade. Apesar desse compromisso, os números da educação pública são preocupantes, de acordo com os dados mais recentes do [QEdu (2019)](https://qedu.org.br/brasil/aprendizado), somente 36\% dos alunos de português na nona série estão em um nível adequado de proficiência, essa situação se mostra ainda pior em matemática, onde somente 18\% dos alunos estão em um nível adequado. Devido aos preocupantes números e o compromisso firmado é necessário dedicar esforços para melhorar a educação, e para melhorar esse cenário podemos utilizar a tecnologia como ferramenta para auxiliar os profissionais da educação.
 
