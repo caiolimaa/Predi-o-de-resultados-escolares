@@ -118,27 +118,27 @@ A seleção da infraestrutura pode ser vista na imagem abaixo:
 
 O Pipeline/metodologia no desenvolvimento do projeto, teve como base os seguintes procedimentos:
 
-Enquadre o problema
+           - Enquadramento do problema
 
-Obter dados
+           - Obter dados
 
-Limpeza de dados
+           - Limpeza de dados
 
-Explorar os dados
+           - Explorar os dados
 
-Preparar os Dados (Pré-processamento)
+           - Preparar os Dados (Pré-processamento)
 
-Melhor modelo de treinamento (trabalho de treinamento, criação de modelo)
+           - Melhor modelo de treinamento (trabalho de treinamento, criação de modelo)
 
-Implantar no endpoint
+           - Implantar no endpoint
 
-Dados de teste
+           - Dados de teste
 
-Modelo
+           - Modelo
 
-Predição
+           - Predição
 
-Avaliação dos resultados
+           - Avaliação dos resultados
 
 
 O pipeline do projeto pode ser conferido nas imagens abaixo:
