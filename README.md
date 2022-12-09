@@ -103,7 +103,9 @@ A infraestrutura foi criada na região Brazil South e envolveu os seguintes recu
 
 
 
-# Clean Up
+# CleanUp
+
+Os recursos alocados no setup e na criação do endpoint têm que ser removidos ao final do projeto, caso contrário esses recursos são contabilizados desnecessariamente, devido a isso é muito importante a exclusão dos recursos utilizados e não mais necessários. Essa exclusão dos recursos foi feita, conforme imagens abaixo:
 
 
 ![image](https://user-images.githubusercontent.com/41349325/206781581-1849c2ea-b876-467e-9d1f-67397dd44f8f.png)
