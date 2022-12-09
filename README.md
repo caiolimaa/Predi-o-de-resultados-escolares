@@ -3,11 +3,14 @@
 
 Este trabalho é um projeto interdisciplinar do curso de Especialização em Ciência de Dados do Instituto Federal de São Paulo, englobando os conceitos estudados na disciplina de Tecnologias de Big Data e na disciplina de Aprendizagem de Máquina e Reconhecimento de Padrões. 
 
-O objetivo do trabalho é praticar, utilizando uma base de dados, a aplicação de conceitos de aprendizagem de máquina na resolução de um problema, com processamento de algoritmos de Machine Learning em ambiente distribuído no Azure ou AWS.
-
 Educação foi o tema escolhido para o projeto, dada a sua importância e relevância, principalmente nos dias de hoje, sendo um direito fundamental garantido na Declaração Universal dos Direitos Humanos, contudo, garantir esse direito é em si um grande desafio e o Brasil se comprometeu em ir além, em um acordo com a UNESCO o país visa garantir uma educação inclusiva, equitativa e de qualidade. 
 
 Apesar desse compromisso, os números da educação pública são preocupantes, de acordo com os dados mais recentes do [QEdu (2019)](https://qedu.org.br/brasil/aprendizado), somente 36\% dos alunos de português na nona série estão em um nível adequado de proficiência, essa situação se mostra ainda pior em matemática, onde somente 18\% dos alunos estão em um nível adequado. Devido aos preocupantes números e o compromisso firmado é necessário dedicar esforços para melhorar a educação, e para melhorar esse cenário podemos utilizar a tecnologia como ferramenta para auxiliar os profissionais da educação.
+
+# Objetivo
+
+O objetivo do trabalho é predizer possíveis reprovações dos alunos, tomando como base os resultados escolares obtidos na base de dados, aplicando modelos de aprendizagem de máquina e métricas como accuracy e recall para realizar o fine tuning dos modelos testados em ambientes distribuídos como Azure e AWS.
+
 
 # Dados
 
