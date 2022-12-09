@@ -84,24 +84,35 @@ A infraestrutura foi criada na região Brazil South e envolveu os seguintes recu
 
 •	28GB de Armazenamento
 
+![image](https://user-images.githubusercontent.com/41349325/206780267-25041d36-0f49-4652-8f65-3c198fd44a05.png)
+
+
 
 # Setup
 
-![image](https://user-images.githubusercontent.com/41349325/206779437-134a610b-0d4e-4cef-a5ad-3099ad55524f.png)
-
-
-![image](https://user-images.githubusercontent.com/41349325/206779459-32f3bda1-d6c0-44db-90ec-0586c3e33a64.png)
-
-
-![image](https://user-images.githubusercontent.com/41349325/206779487-1088c170-27fc-4ec1-b594-97569012622d.png)
+![image](https://user-images.githubusercontent.com/41349325/206780646-7c9aeb41-c795-4110-9714-be81504f4a1a.png)
 
 
 
 # Pipeline/Metodologia
 
+![image](https://user-images.githubusercontent.com/41349325/206780791-ab24d4fb-a0d0-4a94-b7b5-300fc5590831.png)
+
+
+![image](https://user-images.githubusercontent.com/41349325/206781215-93c6f1f9-5c14-49ba-ad83-db5ad66ee5d8.png)
+
 
 
 # Clean Up
+
+
+![image](https://user-images.githubusercontent.com/41349325/206781581-1849c2ea-b876-467e-9d1f-67397dd44f8f.png)
+
+
+![image](https://user-images.githubusercontent.com/41349325/206781641-094adbb4-e732-4a13-8fdf-77e52f414acf.png)
+
+
+![image](https://user-images.githubusercontent.com/41349325/206781705-98ec94d3-144e-4753-9700-79affedecc99.png)
 
 
 
