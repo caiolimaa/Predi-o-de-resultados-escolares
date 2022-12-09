@@ -73,20 +73,42 @@ O Diagrama da Arquitetura consiste na inserção da base de dados na nuvem, efet
 # Infraestrutura
 
 A infraestrutura foi criada na região Brazil South e envolveu os seguintes recursos:
+
 •	Máquina Virtual Dedicada
+
 •	CPU
+
 •	2 Núcleos
+
 •	14GB de RAM
+
 •	28GB de Armazenamento
 
 
 # Setup
+
+![image](https://user-images.githubusercontent.com/41349325/206779437-134a610b-0d4e-4cef-a5ad-3099ad55524f.png)
+
+
+![image](https://user-images.githubusercontent.com/41349325/206779459-32f3bda1-d6c0-44db-90ec-0586c3e33a64.png)
+
+
+![image](https://user-images.githubusercontent.com/41349325/206779487-1088c170-27fc-4ec1-b594-97569012622d.png)
 
 
 
 # Pipeline/Metodologia
 
 
+
+# Clean Up
+
+
+
+# Discussão de Resultados e Melhorias
+
+
+Como melhorias deste trabalho, pretende-se desenvolver novos modelos de aprendizado de máquina, implementando processamento de linguagem natural e redes neurais convolucionais na melhoria da predição.
 
 
 # Referências
